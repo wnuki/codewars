@@ -4,11 +4,11 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class Multiples35Test {
+public class Multiplies35Test {
 
     @Test
     public void test() {
-        assertEquals(23, new Multiples35().solution(10));
+        assertEquals(23, new Multiplies35().solution(10));
     }
 
 }

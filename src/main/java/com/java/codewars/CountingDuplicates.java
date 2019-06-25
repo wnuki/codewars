@@ -11,8 +11,8 @@ public class CountingDuplicates {
         Set<Character> duplicateCharacters = new HashSet<>();
 
         for (int i = 0; i < upperString.length(); i++) {
-            for (int j = i+1; j < upperString.length(); j++) {
-                if (upperString.charAt(i) == upperString.charAt(j) ) {
+            for (int j = i + 1; j < upperString.length(); j++) {
+                if (upperString.charAt(i) == upperString.charAt(j)) {
                     duplicateCharacters.add(upperString.charAt(i));
                 }
             }

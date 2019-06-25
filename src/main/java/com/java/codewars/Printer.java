@@ -10,7 +10,6 @@ public class Printer {
                 wrongCharacters++;
             }
         }
-
         return wrongCharacters.toString() + "/" + totalCharacters.toString();
     }
 }

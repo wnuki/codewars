@@ -1,6 +1,5 @@
 package com.java.codewars;
 
-import com.java.codewars.BuyCar;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

@@ -15,7 +15,6 @@ public class FindOdd {
                 return number;
             }
         }
-
         return 0;
     }
 }

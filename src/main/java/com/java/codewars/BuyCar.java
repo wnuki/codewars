@@ -9,7 +9,7 @@ public class BuyCar {
         int savings = 0;
 
         if (priceNew <= priceOld + savingperMonth) {
-            return new int[] {0, (int)(priceOld + months - priceNew)} ;
+            return new int[]{0, (int) (priceOld + months - priceNew)};
         }
 
         for (int i = 1; priceNew > priceOld + savings; i++) {
@@ -17,14 +17,14 @@ public class BuyCar {
             months++;
             if (i % 2 == 0) {
                 percentLossByMonth += 0.5;
-                priceNew = priceNew * (1 - percentLossByMonth/100);
-                priceOld = priceOld * (1 - percentLossByMonth/100);
+                priceNew = priceNew * (1 - percentLossByMonth / 100);
+                priceOld = priceOld * (1 - percentLossByMonth / 100);
 
             } else {
-                priceNew = priceNew * (1 - percentLossByMonth/100);
-                priceOld = priceOld * (1 - percentLossByMonth/100);
+                priceNew = priceNew * (1 - percentLossByMonth / 100);
+                priceOld = priceOld * (1 - percentLossByMonth / 100);
             }
         }
-        return new int[] {months, (int) Math.round(priceOld + savings - priceNew)};
+        return new int[]{months, (int) Math.round(priceOld + savings - priceNew)};
     }
 }

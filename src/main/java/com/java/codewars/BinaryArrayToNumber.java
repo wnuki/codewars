@@ -9,6 +9,6 @@ public class BinaryArrayToNumber {
             binaryNumer = binaryNumer + binary.get(i).toString();
         }
         int decimalNumber = Integer.parseInt(binaryNumer, 2);
-        return  decimalNumber;
+        return decimalNumber;
     }
 }
