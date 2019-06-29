@@ -1,7 +1,7 @@
 package com.java.codewars;
 
-import com.java.codewars.FindOutlier;
 import org.junit.Test;
+
 import static org.junit.Assert.assertEquals;
 
 

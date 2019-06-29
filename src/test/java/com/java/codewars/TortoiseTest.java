@@ -1,8 +1,8 @@
 package com.java.codewars;
 
-import com.java.codewars.Tortoise;
 import org.junit.Test;
-import static org.junit.Assert.*;
+
+import static org.junit.Assert.assertArrayEquals;
 
 public class TortoiseTest {
 

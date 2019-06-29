@@ -1,8 +1,8 @@
 package com.java.codewars;
 
-import com.java.codewars.FindOdd;
 import org.junit.Test;
-import static org.junit.Assert.*;
+
+import static org.junit.Assert.assertEquals;
 
 public class FindOddTest {
 

@@ -1,9 +1,8 @@
 package com.java.codewars;
 
-import com.java.codewars.GpsSpeed;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class GpsSpeedTest {
     private static void testing(long actual, long expected) {

@@ -1,9 +1,8 @@
 package com.java.codewars;
 
-import static org.junit.Assert.*;
-
-import com.java.codewars.Money;
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class MoneyTest {
 

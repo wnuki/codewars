@@ -1,11 +1,9 @@
 package com.java.codewars;
 
-import com.java.codewars.BinaryArrayToNumber;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class BinaryArrayToNumberTest {
     @org.junit.Test

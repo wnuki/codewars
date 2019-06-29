@@ -1,6 +1,5 @@
 package com.java.codewars;
 
-
 public class BuyCar {
     public static int[] nbMonths(int startPriceOld, int startPriceNew, int savingperMonth, double percentLossByMonth) {
         int months = 0;

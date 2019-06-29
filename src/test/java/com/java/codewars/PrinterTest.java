@@ -1,9 +1,8 @@
 package com.java.codewars;
 
-import com.java.codewars.Printer;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class PrinterTest {
 
