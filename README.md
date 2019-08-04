@@ -69,5 +69,6 @@ Bunch of code challenges and solutions. They are focused on programming fundamen
 
 #### Problem 34 Take a ten minute walk: [problem details](https://www.codewars.com/kata/54da539698b8a2ad76000228) | [my solution](https://github.com/wnuki/codewars/blob/master/src/main/java/com/java/codewars/TenMinWalk.java) 
 
-#### Problem 3b Double Cola: [problem details](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0) | [my solution](https://github.com/wnuki/codewars/blob/master/src/main/java/com/java/codewars/Line.java) 
+#### Problem 35 Double Cola: [problem details](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0) | [my solution](https://github.com/wnuki/codewars/blob/master/src/main/java/com/java/codewars/Line.java) 
 
+#### Problem 36 Snakes and Ladders: [problem details](https://www.codewars.com/kata/587136ba2eefcb92a9000027/) | [my solution](https://github.com/wnuki/codewars/blob/master/src/main/java/com/java/codewars/SnakesLadders.java) 
