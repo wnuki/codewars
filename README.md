@@ -72,3 +72,5 @@ Bunch of code challenges and solutions. They are focused on programming fundamen
 #### Problem 35 Double Cola: [problem details](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0) | [my solution](https://github.com/wnuki/codewars/blob/master/src/main/java/com/java/codewars/Line.java) 
 
 #### Problem 36 Snakes and Ladders: [problem details](https://www.codewars.com/kata/587136ba2eefcb92a9000027/) | [my solution](https://github.com/wnuki/codewars/blob/master/src/main/java/com/java/codewars/SnakesLadders.java) 
+
+#### Problem 37 Scramblies: [problem details](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/) | [my solution](https://github.com/wnuki/codewars/blob/master/src/main/java/com/java/codewars/Scramblies.java) 
