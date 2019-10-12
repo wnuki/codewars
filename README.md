@@ -76,3 +76,5 @@ Bunch of code challenges and solutions. They are focused on programming fundamen
 #### Problem 37 Scramblies: [problem details](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/) | [my solution](https://github.com/wnuki/codewars/blob/master/src/main/java/com/java/codewars/Scramblies.java) 
 
 #### Problem 38 Perimeter of squares in a rectangle: [problem details](https://www.codewars.com/kata/559a28007caad2ac4e000083/) | [my solution](https://github.com/wnuki/codewars/blob/master/src/main/java/com/java/codewars/SumFct.java) 
+
+#### Problem 39 Human Readable Time: [problem details](https://www.codewars.com/kata/52685f7382004e774f0001f7/) | [my solution](https://github.com/wnuki/codewars/blob/master/src/main/java/com/java/codewars/HumanReadableTime.java) 
