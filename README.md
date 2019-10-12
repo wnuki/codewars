@@ -78,3 +78,5 @@ Bunch of code challenges and solutions. They are focused on programming fundamen
 #### Problem 38 Perimeter of squares in a rectangle: [problem details](https://www.codewars.com/kata/559a28007caad2ac4e000083/) | [my solution](https://github.com/wnuki/codewars/blob/master/src/main/java/com/java/codewars/SumFct.java) 
 
 #### Problem 39 Human Readable Time: [problem details](https://www.codewars.com/kata/52685f7382004e774f0001f7/) | [my solution](https://github.com/wnuki/codewars/blob/master/src/main/java/com/java/codewars/HumanReadableTime.java) 
+
+#### Problem 40 Integers: Recreation One: [problem details](https://www.codewars.com/kata/55aa075506463dac6600010d/) | [my solution](https://github.com/wnuki/codewars/blob/master/src/main/java/com/java/codewars/SumSquaredDivisors.java) 
